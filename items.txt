@@ -1,0 +1,14 @@
+1;Basic T-shirt;red;10;7
+1;Basic T-shirt;black;12;2
+2;Leather Jacket;red;20;3
+2;Leather Jacket;black;18;1
+3;Robe of the weave;red;17;3
+3;Robe of the weave;black;18;3
+4;Plaid shirt;red;11;4
+4;Plaid shirt;black;11;4
+5;D4C Graphic T-shirt;red;21;2
+5;D4C Graphic T-shirt;black;22;2
+6;Denim jeans;red;13;8
+6;Denim jeans;black;12;2
+7;Hodd-Toward designer shorts;red;14;0
+7;Hodd-Toward designer shorts;black;14;0
